@@ -6,5 +6,5 @@
 <a href="https://github.com/lucidrunner/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucidrunner&layout=compact&theme=date_night" />
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidrunner&layout=compact&theme=date_night)
+
 
